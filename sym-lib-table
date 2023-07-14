@@ -1,0 +1,3 @@
+(sym_lib_table
+  (lib (name "NodemcuV3")(type "KiCad")(uri "${KIPRJMOD}/Libraries/SEED_Nodemcu/NodemcuV3.kicad_sym")(options "")(descr ""))
+)
